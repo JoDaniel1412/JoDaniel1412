@@ -1,4 +1,4 @@
-### Hello hello, I'm Jose - aka [Atlas][website] 👋
+### Hello hello, I'm Daniel - aka [Atlas][website] 👋
 
 ### Connect with me:
 
@@ -43,8 +43,9 @@
 <br />
 
 ---
-
+<!--
 <img align="left" alt="JoDaniel1412's Github Stats" src="https://github-readme-stats.jodaniel1412.vercel.app/api?username=JoDaniel1412&show_icons=true&hide_border=true" />
+-->
 
 [website]: https://atlasdev.com
 [youtube]: https://www.youtube.com/channel/UCdRF4a-irfKh0El8c8-pC2w/
