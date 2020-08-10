@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="atlasdev.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jodaniel1412.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Atlas | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="jodaniel0914 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jodaniel | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -67,7 +67,7 @@
 <img align="left" alt="JoDaniel1412's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoDaniel1412&show_icons=true&hide_border=true" />
 
 
-[website]: https://jodaniel1409.github.io
+[website]: https://jodaniel1412.github.io
 [youtube]: https://www.youtube.com/channel/UCdRF4a-irfKh0El8c8-pC2w/
 [twitter]: https://twitter.com/jodaniel1409
 [linkedin]: https://www.linkedin.com/in/jose-daniel-acuña-8858931b4/
